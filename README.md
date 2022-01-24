@@ -9,7 +9,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/Exortions/SkyBlock">
+  <a href="https://github.com/froggors/SkyBlock">
     <img src="images/skyblock.png" alt="SkyBlock" width="720" height="420">
   </a>
 
@@ -21,7 +21,7 @@
     <a href="https://github.com/Exortions/SkyBlock/wiki"><strong>Explore the wiki »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Exortions/SkyBlock">View Demo</a>
+    <a href="https://github.com/froggors/SkyBlock">View Demo</a>
     ·
     <a href="https://github.com/Exortions/SkyBlock/issues">Report Bug</a>
     ·
@@ -63,7 +63,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Branch from Exortions's skyblock
+branch from skyblock remake
 
 Hypixel SkyBlock, a Minecraft game, is a very interesting new take on the Minecraft experience. With crazy new features, an economy (even a rip-off stock market), custom armor, weapons, abilities, bosses, and more! It's revolutionized the Minecraft experience, and is very fun to play around in. Me (Exortions), and a friend (OptimusChen) decided to create this Hypixel SkyBlock Remake as a fun side-project (Though, now it has become our main project). The goal of this project is to replicate the Hypixel SkyBlock experience as much as possible.
 
@@ -160,7 +160,7 @@ Distributed under the MIT License. See the click the link below for more informa
 <!-- CONTACT -->
 ## Contact
 
-Discord - [Exortions#0001](https://github.com/Exortions) or [OptimusChen#0001](https://github.com/OptimusChen)
+Discord - [☭Jedi Spogger☭#2437](https://github.com/froggors)
 
 Project Link: [https://github.com/Exortions/SkyBlock](https://github.com/Exortions/SkyBlock)
 
@@ -192,5 +192,5 @@ Project Link: [https://github.com/Exortions/SkyBlock](https://github.com/Exortio
 [license-shield]: https://img.shields.io/github/license/Exortions/SkyBlock?style=for-the-badge
 [license-url]: https://github.com/Exortions/SkyBlock/blob/master/LICENSE.txt
 [size-shield]: https://img.shields.io/github/languages/code-size/Exortions/SkyBlock?style=for-the-badge
-[size-url]: https://github.com/Exortions/SkyBlock
+[size-url]: https://github.com/froggors/SkyBlock
 [product-screenshot]: images/screenshot.png
