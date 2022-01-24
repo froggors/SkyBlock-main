@@ -135,7 +135,7 @@ As said above, if you are downloading this project, you agree to the policy/term
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/Exortions/SkyBlock/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/froggors/SkyBlock-main/issues) for a list of proposed features (and known issues).
 
 
 
@@ -162,7 +162,7 @@ Distributed under the MIT License. See the click the link below for more informa
 
 Discord - [☭Jedi Spogger☭#2437](https://github.com/froggors)
 
-Project Link: [https://github.com/Exortions/SkyBlock](https://github.com/Exortions/SkyBlock)
+Project Link: [https://github.com/froggors/SkyBlock-main](https://github.com/froggors/SkyBlock-main)
 
 
 
@@ -184,11 +184,11 @@ Project Link: [https://github.com/Exortions/SkyBlock](https://github.com/Exortio
 [contributors-shield]: https://img.shields.io/github/contributors/Exortions/SkyBlock?style=for-the-badge
 [contributors-url]: https://github.com/Exortions/SkyBlock/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/Exortions/SkyBlock?style=for-the-badge
-[forks-url]: https://github.com/Exortions/SkyBlock/members
+[forks-url]: https://github.com/froggors/SkyBlock-main/network/members
 [stars-shield]: https://img.shields.io/github/stars/Exortions/SkyBlock?style=for-the-badge
-[stars-url]: https://github.com/Exortions/SkyBlock/stargazers
+[stars-url]: https://github.com/froggors/SkyBlock-main/stargazers
 [issues-shield]: https://img.shields.io/github/issues/Exortions/SkyBlock?style=for-the-badge
-[issues-url]: https://github.com/Exortions/SkyBlock/issues
+[issues-url]: https://github.com/froggors/SkyBlock-main/issues
 [license-shield]: https://img.shields.io/github/license/Exortions/SkyBlock?style=for-the-badge
 [license-url]: https://github.com/Exortions/SkyBlock/blob/master/LICENSE.txt
 [size-shield]: https://img.shields.io/github/languages/code-size/Exortions/SkyBlock?style=for-the-badge
