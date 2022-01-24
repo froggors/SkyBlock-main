@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component LANGUAGE_LEVEL="JDK_1_8" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/target/test-classes"/>
+	<contentEntry url="file://$MODULE_DIR$">
+		<excludeFolder url="file://$MODULE_DIR$/target"/>
+	</contentEntry>
+	<lib name="Maven: org.spigotmc:spigot-api:1.8.8-R0.1-SNAPSHOT" scope="PROVIDED"/>
+	<lib name="Maven: commons-lang:commons-lang:2.6" scope="PROVIDED"/>
+	<lib name="Maven: com.googlecode.json-simple:json-simple:1.1.1" scope="PROVIDED"/>
+	<lib name="Maven: junit:junit:4.10" scope="PROVIDED"/>
+	<lib name="Maven: org.hamcrest:hamcrest-core:1.1" scope="PROVIDED"/>
+	<lib name="Maven: com.google.guava:guava:17.0" scope="PROVIDED"/>
+	<lib name="Maven: com.google.code.gson:gson:2.2.4" scope="PROVIDED"/>
+	<lib name="Maven: org.avaje:ebean:2.8.1" scope="PROVIDED"/>
+	<lib name="Maven: javax.persistence:persistence-api:1.0" scope="PROVIDED"/>
+	<lib name="Maven: org.yaml:snakeyaml:1.15" scope="PROVIDED"/>
+	<lib name="Maven: net.md-5:bungeecord-chat:1.8-SNAPSHOT" scope="PROVIDED"/>
+	<lib name="Maven: org.bukkit:bukkit:1.8.8-R0.1-SNAPSHOT" scope="PROVIDED"/>
+	<lib name="Maven: org.bukkit:craftbukkit:1.8.8-R0.1-SNAPSHOT" scope="PROVIDED"/>
+	<lib name="Maven: com.mojang:authlib:1.5.21" scope="PROVIDED"/>
+	<lib name="Maven: org.apache.commons:commons-lang3:3.3.2" scope="PROVIDED"/>
+	<lib name="Maven: org.apache.logging.log4j:log4j-core:2.0-beta9" scope="PROVIDED"/>
+	<lib name="Maven: commons-codec:commons-codec:1.9" scope="PROVIDED"/>
+	<lib name="Maven: org.apache.logging.log4j:log4j-api:2.0-beta9" scope="PROVIDED"/>
+	<lib name="Maven: com.google.code.findbugs:jsr305:2.0.1" scope="PROVIDED"/>
+	<lib name="Maven: commons-io:commons-io:2.4" scope="PROVIDED"/>
+	<levels>
+		<level name="dependencies" value="project"/>
+		<level name="dependencies (2)" value="project"/>
+		<level name="Maven: org.spigotmc:spigot-api:1.8.8-R0.1-SNAPSHOT" value="project"/>
+		<level name="Maven: commons-lang:commons-lang:2.6" value="project"/>
+		<level name="Maven: com.googlecode.json-simple:json-simple:1.1.1" value="project"/>
+		<level name="Maven: junit:junit:4.10" value="project"/>
+		<level name="Maven: org.hamcrest:hamcrest-core:1.1" value="project"/>
+		<level name="Maven: com.google.guava:guava:17.0" value="project"/>
+		<level name="Maven: com.google.code.gson:gson:2.2.4" value="project"/>
+		<level name="Maven: org.avaje:ebean:2.8.1" value="project"/>
+		<level name="Maven: javax.persistence:persistence-api:1.0" value="project"/>
+		<level name="Maven: org.yaml:snakeyaml:1.15" value="project"/>
+		<level name="Maven: net.md-5:bungeecord-chat:1.8-SNAPSHOT" value="project"/>
+		<level name="Maven: org.bukkit:bukkit:1.8.8-R0.1-SNAPSHOT" value="project"/>
+		<level name="Maven: org.bukkit:craftbukkit:1.8.8-R0.1-SNAPSHOT" value="project"/>
+		<level name="Maven: com.mojang:authlib:1.5.21" value="project"/>
+		<level name="Maven: org.apache.commons:commons-lang3:3.3.2" value="project"/>
+		<level name="Maven: org.apache.logging.log4j:log4j-core:2.0-beta9" value="project"/>
+		<level name="Maven: commons-codec:commons-codec:1.9" value="project"/>
+		<level name="Maven: org.apache.logging.log4j:log4j-api:2.0-beta9" value="project"/>
+		<level name="Maven: com.google.code.findbugs:jsr305:2.0.1" value="project"/>
+		<level name="Maven: commons-io:commons-io:2.4" value="project"/>
+	</levels>
+</component>

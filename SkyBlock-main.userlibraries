@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="dependencies">
+    <archive path="E:/SkyBlock-main/dependencies/FancyCrafting-1.0.0.jar" />
+    <archive path="E:/SkyBlock-main/dependencies/item-nbt-api-plugin-2.6.0.jar" />
+    <archive path="E:/SkyBlock-main/dependencies/ArmorEventPlugin.jar" />
+    <archive path="E:/SkyBlock-main/dependencies/ActionBarAPI-1.5.4.jar" />
+    <archive path="E:/SkyBlock-main/dependencies/AutoRespawnPlus_3.7_1.jar" />
+    <archive path="E:/SkyBlock-main/dependencies/Multiverse-Core-2.5.jar" />
+    <archive path="E:/SkyBlock-main/dependencies/Citizens-2.0.26-b1995.jar" />
+    <archive path="E:/SkyBlock-main/dependencies/worldedit-bukkit-6.1.jar" />
+  </library>
+  <library name="historical">
+    <archive path="E:/SkyBlock-main/historical/4-23-2021.zip" />
+    <archive path="E:/SkyBlock-main/historical/5-18-2021.zip" />
+    <archive path="E:/SkyBlock-main/historical/5-6-2021.zip" />
+    <archive path="E:/SkyBlock-main/historical/4-24-2021.zip" />
+  </library>
+</eclipse-userlibraries>
+
