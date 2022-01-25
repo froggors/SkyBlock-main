@@ -22,34 +22,37 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/froggors/SkyBlock-main">
-    <img src="images/skyblock.png" alt="SkyBlock" width="720" height="420">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Remake Hypixel SkyBlock Branch</h3>
+  <h3 align="center">Best-README-Template</h3>
 
   <p align="center">
-    fixes and addons for Exortions/SkyBlock
+    An awesome README template to jumpstart your projects!
     <br />
-    <a href="https://github.com/Exortions/SkyBlock/wiki"><strong>Explore the wiki »</strong></a>
+    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/froggors/SkyBlock">View Demo</a>
+    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
     ·
-    <a href="https://github.com/froggors/SkyBlock-main/issues">Report Bug</a>
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
     ·
-    <a href="https://github.com/froggors/SkyBlock-main/issues">Request Feature</a>
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
   </p>
 </div>
 
+
+
 <!-- TABLE OF CONTENTS -->
-<details open="open">
+<details>
   <summary>Table of Contents</summary>
   <ol>
     <li>
@@ -65,13 +68,12 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#features">Features</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -80,6 +82,18 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
+
+There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+
+Here's why:
+* Your time should be focused on creating something amazing. A project that solves a problem and helps others
+* You shouldn't be doing the same tasks over and over like creating a README from scratch
+* You should implement DRY principles to the rest of your life :smile:
+
+Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+
+Use the `BLANK_README.md` to get started.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -87,67 +101,63 @@
 
 ### Built With
 
-This section is all of the frameworks/applications that were used in the process of making this Hypixel SkyBlock Remake. You can see some smaller things towards the bottom of this page in the Acknowledgements section.
-* [IntelliJ](https://www.jetbrains.com/idea/)
-* [Maven](https://maven.apache.org/)
-* [Spigot](https://www.spigotmc.org/)
+This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+
+* [Next.js](https://nextjs.org/)
+* [React.js](https://reactjs.org/)
+* [Vue.js](https://vuejs.org/)
+* [Angular](https://angular.io/)
+* [Svelte](https://svelte.dev/)
+* [Laravel](https://laravel.com)
+* [Bootstrap](https://getbootstrap.com)
+* [JQuery](https://jquery.com)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+This is an example of how you may give instructions on setting up your project locally.
+To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-  Here's the great thing about all of this: You don't need any other plugins to run this SkyBlock Remake! The plugin is also coded in the most efficient way, to prevent lag & unwanted glitches/bugs.
+This is an example of how to list things you need to use the software and how to install them.
+* npm
+  ```sh
+  npm install npm@latest -g
+  ```
 
 ### Installation
 
-If you want to install this for yourself, and only yourself (Limited to a small group of friends) for a Minecraft server, you can do so with the following instructions.
-IF YOU ARE TRYING TO PROFIT OFF OF THIS PLUGIN, PLEASE BE WARNED THAT IT IS NOT LEGAL, AS THE GAME SKYBLOCK IS OWNED BY [HYPIXEL](https://hypixel.net/), AND THIS IS A FUN SIDE PROJECT THAT IS NOT MEANT TO BE FOR COMMERCIAL USE.
-1. Ensure that your server .jar is Spigot 1.8.9
-2. Download the dependencies from the dependencies folder
-3. Download a release from the Releases section.
-4. Move the downloaded JAR into your server plugins folder
-   `MainServerFolder/plugins`
-4. Restart your server.
-5. Download the SkyBlock hub [here](https://www.mediafire.com/file/rosqqsrtqidkly1/Hypixel_-_Skyblock_Hub.zip/file)
-6. Make the SkyBlock hub your spawning world
-7. Stop your server
-8. Take the private_island.schematic file from the dependencies folder and put it in 
-  `MainServerFolder/plugins/RemakeHypixelSkyblock/`
-10. Start your server again.
-11. Log onto the server! Bam! You now have SkyBlock running on your private server.
-Important note: Launch pads and custom mob spawning locations won't work because you need to edit the mobspawns.yml and the launchpad.yml. Those files will directly be added later to the GitHub.
+_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+
+1. Get a free API Key at [https://example.com](https://example.com)
+2. Clone the repo
+   ```sh
+   git clone https://github.com/your_username_/Project-Name.git
+   ```
+3. Install NPM packages
+   ```sh
+   npm install
+   ```
+4. Enter your API in `config.js`
+   ```js
+   const API_KEY = 'ENTER YOUR API';
+   ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-<!-- FEATURES -->
-## Features
-
-Current Features
- - Private Islands
- - Stats
- - Custom Mobs
- - Slayers
- - Skills
- - Launch Pads
- - Regions/Locations
-
-Coming Soon
- - Collections
- - Merchants
- - Dragons
-
-Not Coming Soon
- - Dungeons
- - Bazaar 
- - Auctions
-
 
 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-As said above, if you are downloading this project, you agree to the policy/terms/conditions of this project. Do not attempt get commercial use from this project, because the idea of Hypixel SkyBlock was created by the Hypixel admins, therefore I do not have the right to give this out to people for them to make money off of.
+Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+
+_For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -156,7 +166,15 @@ As said above, if you are downloading this project, you agree to the policy/term
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/froggors/SkyBlock-main/issues) for a list of proposed features (and known issues).
+- [x] Add Changelog
+- [x] Add back to top links
+- [ ] Add Additional Templates w/ Examples
+- [ ] Add "components" document to easily copy & paste sections of the readme
+- [ ] Multi-language Support
+    - [ ] Chinese
+    - [ ] Spanish
+
+See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -165,14 +183,16 @@ See the [open issues](https://github.com/froggors/SkyBlock-main/issues) for a li
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Don't forget to give the project a star! Thanks again!
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -181,8 +201,7 @@ Contributions are what make the open source community such an amazing place to b
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See the click the link below for more information.
-* [Link](https://github.com/froggors/SkyBlock-main/blob/main/LICENSE)
+Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -191,37 +210,44 @@ Distributed under the MIT License. See the click the link below for more informa
 <!-- CONTACT -->
 ## Contact
 
-Discord - [☭Jedi Spogger☭#2437](https://github.com/froggors)
+Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
-Project Link: [https://github.com/froggors/SkyBlock-main](https://github.com/froggors/SkyBlock-main)
+Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-* [Spigot API](https://www.spigotmc.org/wiki/spigot-maven/)
-* [Hypixel API](https://api.hypixel.net/)
-* [Armor Event API](https://www.spigotmc.org/resources/armor-event-1-8-1-9-1-10.24111/)
-* [Auto Respawn Plus](https://www.spigotmc.org/resources/autorespawnplus.14412/)
-* [Actionbar API](https://www.spigotmc.org/resources/actionbarapi-1-8-1-14-2.1315)
-* [Citizens 2 API](https://github.com/CitizensDev/Citizens2)
-* [Item NBT API](https://github.com/tr7zw/Item-NBT-API)
-* [WorldEdit API](https://worldedit.enginehub.org/en/latest/api/index.html)
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
+
+Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+
+* [Choose an Open Source License](https://choosealicense.com)
+* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
+* [Malven's Grid Cheatsheet](https://grid.malven.co/)
 * [Img Shields](https://shields.io)
-* [Readme Template](https://github.com/othneildrew/Best-README-Template)
+* [GitHub Pages](https://pages.github.com)
+* [Font Awesome](https://fontawesome.com)
+* [React Icons](https://react-icons.github.io/react-icons/search)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/froggors/SkyBlock-main/SkyBlock-main.svg?style=for-the-badge
-[contributors-url]: https://github.com/froggors/SkyBlock-main/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/froggors/SkyBlock-main.svg?style=for-the-badge
-[forks-url]: https://github.com/froggors/SkyBlock-main/network/members
-[stars-shield]: https://img.shields.io/github/stars/froggors/SkyBlock-main.svg?style=for-the-badge
-[stars-url]: https://github.com/froggors/SkyBlock-main/stargazers
-[issues-shield]: https://img.shields.io/github/issues/froggors/SkyBlock-main.svg?style=for-the-badge
-[issues-url]: https://github.com/froggors/SkyBlock-main/issues
-[license-shield]: https://img.shields.io/github/license/froggors/SkyBlock-main.svg?style=for-the-badge
-[license-url]: https://github.com/froggors/SkyBlock-main/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
+[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
+[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
+[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
+[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
