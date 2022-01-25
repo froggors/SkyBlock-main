@@ -22,6 +22,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
+[![Size][size-shield]][size-url]
 
 
 
@@ -224,4 +225,6 @@ Project Link: [https://github.com/froggors/SkyBlock-main](https://github.com/fro
 [issues-url]: https://github.com/froggors/SkyBlock-main/issues
 [license-shield]: https://img.shields.io/github/license/froggors/SkyBlock-main.svg?style=for-the-badge
 [license-url]: https://github.com/froggors/SkyBlock-main/blob/master/LICENSE.txt
+[size-shield]: https://img.shields.io/github/languages/code-size/froggors/SkyBlock-main?style=for-the-badge
+[size-url]: https://github.com/froggors/SkyBlock-main
 [product-screenshot]: images/screenshot.png
