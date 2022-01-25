@@ -214,7 +214,7 @@ Project Link: [https://github.com/froggors/SkyBlock-main](https://github.com/fro
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/froggors/SkyBlock-main/SkyBlock-main.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/froggors/SkyBlock-main.svg?style=for-the-badge
 [contributors-url]: https://github.com/froggors/SkyBlock-main/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/froggors/SkyBlock-main.svg?style=for-the-badge
 [forks-url]: https://github.com/froggors/SkyBlock-main/network/members
