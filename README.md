@@ -1,35 +1,52 @@
+<div id="top"></div>
+<!--
+*** Thanks for checking out the Best-README-Template. If you have a suggestion
+*** that would make this better, please fork the repo and create a pull request
+*** or simply open an issue with the tag "enhancement".
+*** Don't forget to give the project a star!
+*** Thanks again! Now go create something AMAZING! :D
+-->
 
+
+
+<!-- PROJECT SHIELDS -->
+<!--
+*** I'm using markdown "reference style" links for readability.
+*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
+*** See the bottom of this document for the declaration of the reference variables
+*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
+*** https://www.markdownguide.org/basic-syntax/#reference-style-links
+-->
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![Size][size-shield]][size-url]
+
+
 
 <!-- PROJECT LOGO -->
 <br />
-<p align="center">
-  <a href="https://github.com/froggors/SkyBlock">
+<div align="center">
+  <a href="https://github.com/froggors/SkyBlock-main">
     <img src="images/skyblock.png" alt="SkyBlock" width="720" height="420">
   </a>
 
-  <h3 align="center">Remake Hypixel SkyBlock</h3>
+<h3 align="center">Remake Hypixel SkyBlock Branch</h3>
 
   <p align="center">
-    An awesome attempt at re-creating Hypixel SkyBlock.
+    fixes and addons for Exortions/SkyBlock
     <br />
     <a href="https://github.com/Exortions/SkyBlock/wiki"><strong>Explore the wiki »</strong></a>
     <br />
     <br />
     <a href="https://github.com/froggors/SkyBlock">View Demo</a>
     ·
-    <a href="https://github.com/Exortions/SkyBlock/issues">Report Bug</a>
+    <a href="https://github.com/froggors/SkyBlock-main/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Exortions/SkyBlock/issues">Request Feature</a>
+    <a href="https://github.com/froggors/SkyBlock-main/issues">Request Feature</a>
   </p>
-</p>
-
-
+</div>
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -63,18 +80,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-branch from skyblock remake
 
-Hypixel SkyBlock, a Minecraft game, is a very interesting new take on the Minecraft experience. With crazy new features, an economy (even a rip-off stock market), custom armor, weapons, abilities, bosses, and more! It's revolutionized the Minecraft experience, and is very fun to play around in. Me (Exortions), and a friend (OptimusChen) decided to create this Hypixel SkyBlock Remake as a fun side-project (Though, now it has become our main project). The goal of this project is to replicate the Hypixel SkyBlock experience as much as possible.
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-Here's why:
-* Because sometimes it isn't fun to play the real game (Mostly because nothing is fun if you can't cheat)
-* It's fun to re-learn Spigot plugin development, as well as work with many APIs :smile:
-* Hypixel SkyBlock is such a massive gamemode, therefore re-creating it is a very big challenge. And, I think I can speak for most humans when I say: "I like a challenge".
 
-Of course, this project is a side project, and is NOT to be used for commercial use. If people do start using it for commercial use, we might have to take down the open-sourceness of this project.
-
-A list of commonly used resources that we used to create this project can be found in the acknowledgements.
 
 ### Built With
 
@@ -82,6 +91,8 @@ This section is all of the frameworks/applications that were used in the process
 * [IntelliJ](https://www.jetbrains.com/idea/)
 * [Maven](https://maven.apache.org/)
 * [Spigot](https://www.spigotmc.org/)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Prerequisites
 
@@ -105,6 +116,9 @@ IF YOU ARE TRYING TO PROFIT OFF OF THIS PLUGIN, PLEASE BE WARNED THAT IT IS NOT 
 10. Start your server again.
 11. Log onto the server! Bam! You now have SkyBlock running on your private server.
 Important note: Launch pads and custom mob spawning locations won't work because you need to edit the mobspawns.yml and the launchpad.yml. Those files will directly be added later to the GitHub.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 <!-- FEATURES -->
 ## Features
 
@@ -127,15 +141,24 @@ Not Coming Soon
  - Bazaar 
  - Auctions
 
+
+
+
 <!-- USAGE EXAMPLES -->
 ## Usage
 
 As said above, if you are downloading this project, you agree to the policy/terms/conditions of this project. Do not attempt get commercial use from this project, because the idea of Hypixel SkyBlock was created by the Hypixel admins, therefore I do not have the right to give this out to people for them to make money off of.
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
 <!-- ROADMAP -->
 ## Roadmap
 
 See the [open issues](https://github.com/froggors/SkyBlock-main/issues) for a list of proposed features (and known issues).
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
@@ -151,11 +174,19 @@ Contributions are what make the open source community such an amazing place to b
 5. Open a Pull Request
 
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See the click the link below for more information.
-* [Link](https://github.com/Exortions/SkyBlock/blob/master/LICENSE)
+* [Link](https://github.com/froggors/SkyBlock-main/blob/main/LICENSE)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
 
 <!-- CONTACT -->
 ## Contact
@@ -163,6 +194,8 @@ Distributed under the MIT License. See the click the link below for more informa
 Discord - [☭Jedi Spogger☭#2437](https://github.com/froggors)
 
 Project Link: [https://github.com/froggors/SkyBlock-main](https://github.com/froggors/SkyBlock-main)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
@@ -181,16 +214,14 @@ Project Link: [https://github.com/froggors/SkyBlock-main](https://github.com/fro
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Exortions/SkyBlock?style=for-the-badge
-[contributors-url]: https://github.com/Exortions/SkyBlock/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Exortions/SkyBlock?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/froggors/SkyBlock-main/SkyBlock-main.svg?style=for-the-badge
+[contributors-url]: https://github.com/froggors/SkyBlock-main/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/froggors/SkyBlock-main.svg?style=for-the-badge
 [forks-url]: https://github.com/froggors/SkyBlock-main/network/members
-[stars-shield]: https://img.shields.io/github/stars/Exortions/SkyBlock?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/froggors/SkyBlock-main.svg?style=for-the-badge
 [stars-url]: https://github.com/froggors/SkyBlock-main/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Exortions/SkyBlock?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/froggors/SkyBlock-main.svg?style=for-the-badge
 [issues-url]: https://github.com/froggors/SkyBlock-main/issues
-[license-shield]: https://img.shields.io/github/license/Exortions/SkyBlock?style=for-the-badge
-[license-url]: https://github.com/Exortions/SkyBlock/blob/master/LICENSE.txt
-[size-shield]: https://img.shields.io/github/languages/code-size/Exortions/SkyBlock?style=for-the-badge
-[size-url]: https://github.com/froggors/SkyBlock
+[license-shield]: https://img.shields.io/github/license/froggors/SkyBlock-main.svg?style=for-the-badge
+[license-url]: https://github.com/froggors/SkyBlock-main/blob/master/LICENSE.txt
 [product-screenshot]: images/screenshot.png
