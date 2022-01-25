@@ -63,27 +63,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<!DOCTYPE html>
-
-<style>
-div.container {
-background-color: #ffffff;
-}
-div.container p {
-font-family: Arial;
-font-size: 14px;
-font-style: normal;
-font-weight: bold;
-text-decoration: none;
-text-transform: capitalize;
-color: #000000;
-background-color: #ffffff;
-}
-</style>
-
-<div class="container">
-<p>branch from skyblock remake</p>
-</div>
+branch from skyblock remake
 
 Hypixel SkyBlock, a Minecraft game, is a very interesting new take on the Minecraft experience. With crazy new features, an economy (even a rip-off stock market), custom armor, weapons, abilities, bosses, and more! It's revolutionized the Minecraft experience, and is very fun to play around in. Me (Exortions), and a friend (OptimusChen) decided to create this Hypixel SkyBlock Remake as a fun side-project (Though, now it has become our main project). The goal of this project is to replicate the Hypixel SkyBlock experience as much as possible.
 
