@@ -131,6 +131,7 @@ Current Features
  - Skills
  - Launch Pads
  - Regions/Locations
+ - Reforges
 
 Coming Soon
  - Collections
