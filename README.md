@@ -38,7 +38,7 @@
   <p align="center">
     fixes and addons for Exortions/SkyBlock
     <br />
-    <a href="https://github.com/Exortions/SkyBlock/wiki"><strong>Explore the wiki »</strong></a>
+    <a href="https://github.com/froggors/SkyBlock-main/wiki"><strong>Explore the wiki »</strong></a>
     <br />
     <br />
     <a href="https://github.com/froggors/SkyBlock">View Demo</a>
