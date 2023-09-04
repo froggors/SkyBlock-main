@@ -103,7 +103,7 @@ This section is all of the frameworks/applications that were used in the process
 
 If you want to install this for yourself, and only yourself (Limited to a small group of friends) for a Minecraft server, you can do so with the following instructions.
 IF YOU ARE TRYING TO PROFIT OFF OF THIS PLUGIN, PLEASE BE WARNED THAT IT IS NOT LEGAL, AS THE GAME SKYBLOCK IS OWNED BY [HYPIXEL](https://hypixel.net/), AND THIS IS A FUN SIDE PROJECT THAT IS NOT MEANT TO BE FOR COMMERCIAL USE.
-1. Ensure that your server .jar is Spigot 1.8.9
+1. Ensure that your server .jar is Spigot 1.8.8
 2. Download the dependencies from the dependencies folder
 3. Download a release from the Releases section.
 4. Move the downloaded JAR into your server plugins folder
