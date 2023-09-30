@@ -1,4 +1,4 @@
-<div id="top"></div>
+x<div id="top"></div>
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
 *** that would make this better, please fork the repo and create a pull request
@@ -193,7 +193,7 @@ Distributed under the MIT License. See the click the link below for more informa
 <!-- CONTACT -->
 ## Contact
 
-Discord - [☭Jedi Spogger☭#2437](https://github.com/froggors)
+Discord - [froggors](https://github.com/froggors)
 
 Project Link: [https://github.com/froggors/SkyBlock-main](https://github.com/froggors/SkyBlock-main)
 
